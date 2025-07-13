@@ -80,8 +80,8 @@ Originally developed from a personal writing challenge, this guide has been tran
 
 ## 🌐 Live Demo
 
-https://mpathservices.github.io/Life-Transitions-Guide
-Experience the full interactive version
+- https://mpathservices.github.io/Life-Transitions-Guide
+- Experience the full interactive version
 
 ## 📄 License
 
